@@ -6,11 +6,12 @@ This code animates a turtle on a webpage using CSS transforms and an event liste
 
 To use the animation, click on the link and use the following keys to control the turtle:
 
-ArrowUp: moves the turtle up
-ArrowDown: moves the turtle down
-ArrowLeft: moves the turtle left and flips it horizontally
-ArrowRight: moves the turtle right and flips it horizontally
-Space: resets the turtle's position and orientation to its original state
+- ArrowUp: moves the turtle up
+- ArrowDown: moves the turtle down
+- ArrowLeft: moves the turtle left and flips it horizontally
+- ArrowRight: moves the turtle right and flips it horizontally
+- Space: resets the turtle's position and orientation to its original state
+
 Any other key press will have no effect.
 
 Credits:
