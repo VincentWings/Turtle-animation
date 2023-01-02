@@ -10,3 +10,6 @@ ArrowLeft: moves the turtle left and flips it horizontally
 ArrowRight: moves the turtle right and flips it horizontally
 Space: resets the turtle's position and orientation to its original state
 Any other key press will have no effect.
+
+Credits:
+<a href="https://www.freepik.com/free-vector/cute-little-turtle-set_9174530.htm#query=game%20animation%20turtle&position=15&from_view=search&track=ais">Image by pch.vector</a> on Freepik
